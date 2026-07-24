@@ -1,12 +1,12 @@
 # 🛡️ AegisGuard — Antivirus & Protection Temps Réel
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-38bdf8?style=for-the-badge)](https://github.com/votre-compte/aegisguard/releases/latest)
-[![Platform](https://img.shields.io/badge/Plateforme-Windows_10_%7C_11-0078D4?style=for-the-badge&logo=windows)](https://github.com/votre-compte/aegisguard/releases/latest)
+[![Version](https://img.shields.io/badge/Version-1.0.0-38bdf8?style=for-the-badge)](https://github.com/rduez/aegisguard/releases/latest)
+[![Platform](https://img.shields.io/badge/Plateforme-Windows_10_%7C_11-0078D4?style=for-the-badge&logo=windows)](https://github.com/rduez/aegisguard/releases/latest)
 [![Framework](https://img.shields.io/badge/.NET-Framework_4.8_/_8-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
 
 **AegisGuard** est une solution de sécurité Windows légère et moderne conçue pour protéger votre système contre les menaces grâce à un moteur d'analyse par empreinte **SHA256** et un module de surveillance active en temps réel.
 
-🌐 **Site Officiel :** [aegisguard.gt.tc](https://aegisguard.gt.tc) *(ou l'URL exacte de ton site)*
+🌐 **Site Officiel :** [aegisguard.gt.tc](https://aegisguard.gt.tc)
 
 ---
 
