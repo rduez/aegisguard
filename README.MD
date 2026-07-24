@@ -3,7 +3,6 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-38bdf8?style=for-the-badge)](https://github.com/votre-compte/aegisguard/releases/latest)
 [![Platform](https://img.shields.io/badge/Plateforme-Windows_10_%7C_11-0078D4?style=for-the-badge&logo=windows)](https://github.com/votre-compte/aegisguard/releases/latest)
 [![Framework](https://img.shields.io/badge/.NET-Framework_4.8_/_8-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
-[![License](https://img.shields.io/badge/Licence-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 **AegisGuard** est une solution de sécurité Windows légère et moderne conçue pour protéger votre système contre les menaces grâce à un moteur d'analyse par empreinte **SHA256** et un module de surveillance active en temps réel.
 
@@ -46,10 +45,13 @@ Pour obtenir la version officielle et sécurisée d'**AegisGuard**, ne télécha
 
 ---
 
-## 🛠️ Compilation à partir du Code Source
+## 🔒 Disponibilité du Code Source
 
-Si vous souhaitez étudier ou compiler le projet vous-même :
+AegisGuard est actuellement distribué sous forme de logiciel compilé (exécutable/installateur). Le code source n'est pas disponible publiquement pour le moment.
 
-1. Clonez le dépôt :
-   ```bash
-   git clone [https://github.com/votre-compte/aegisguard.git](https://github.com/votre-compte/aegisguard.git)
+Pour télécharger et utiliser l'application, veuillez vous référer à la section **[Releases](../../releases/latest)**.
+
+## 📜 Licence & Droits d'auteur
+
+© 2026 AegisGuard. Tous droits réservés.  
+Ce projet et son code source ne peuvent pas être redistribués ou réutilisés sans autorisation préalable.
