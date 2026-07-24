@@ -7,7 +7,7 @@
 
 **AegisGuard** est une solution de sécurité Windows légère et moderne conçue pour protéger votre système contre les menaces grâce à un moteur d'analyse par empreinte **SHA256** et un module de surveillance active en temps réel.
 
-🌐 **Site Officiel :** [rduez.infy.click](https://rduez.infy.click) *(ou l'URL exacte de ton site)*
+🌐 **Site Officiel :** [aegisguard.gt.tc](https://aegisguard.gt.tc) *(ou l'URL exacte de ton site)*
 
 ---
 
