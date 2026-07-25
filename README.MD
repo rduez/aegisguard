@@ -1,6 +1,6 @@
 # 🛡️ AegisGuard — Antivirus & Protection Temps Réel
 
-[![Version](https://img.shields.io/badge/Version-1.1.0-38bdf8?style=for-the-badge)](https://github.com/rduez/aegisguard/releases/latest)
+[![Version](https://img.shields.io/badge/Version-1.0.0-38bdf8?style=for-the-badge)](https://github.com/rduez/aegisguard/releases/latest)
 [![Platform](https://img.shields.io/badge/Plateforme-Windows_10_%7C_11-0078D4?style=for-the-badge&logo=windows)](https://github.com/rduez/aegisguard/releases/latest)
 [![Framework](https://img.shields.io/badge/.NET-Framework_4.8_/_8-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
 
