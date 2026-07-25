@@ -14,11 +14,11 @@
 
 Pour obtenir la version officielle et sécurisée d'**AegisGuard**, ne téléchargez pas le code source brut du dépôt. Rendez-vous directement dans la section **Releases** de GitHub :
 
-➡️ **[Lien direct vers la dernière Release Officielle](../../releases/latest)**
+➡️ **[Lien direct vers la dernière Release Officielle](../../releases)**
 
 ### Packages disponibles dans la Release :
-* **`AegisGuardSetup-v1.1.0.msi`** : Installateur Windows standard (recommandé).
-* **`AegisGuardSetup-v1.1.0.zip`** : Archive contenant l'installateur `.msi` et `setup.exe` pour une vérification locale avant installation.
+* **`AegisGuardSetup.msi`** : Installateur Windows standard (recommandé).
+* **`AegisGuard.Setup.zip`** : Archive contenant l'installateur `.msi` et `setup.exe` pour une vérification locale avant installation.
 
 > ⚠️ **Remarque (Windows SmartScreen) :** AegisGuard étant un logiciel indépendant non muni d'un certificat d'éditeur payant, Windows peut afficher une alerte SmartScreen. Cliquez sur **"Informations complémentaires"** puis **"Exécuter quand même"**.
 
