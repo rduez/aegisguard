@@ -14,7 +14,9 @@
 
 Pour obtenir la version officielle et sécurisée d'**AegisGuard**, ne téléchargez pas le code source brut du dépôt. Rendez-vous directement dans la section **Releases** de GitHub :
 
-➡️ **[Lien direct vers la dernière Release Officielle](../../releases)**
+➡️ **[Lien direct vers la dernière Release Officielle](../../releases/latest)**
+
+🔀 **[Lien direct vers toutes les releases Officielles](../../releases)**
 
 ### Packages disponibles dans la Release :
 * **`AegisGuardSetup.msi`** : Installateur Windows standard (recommandé).
