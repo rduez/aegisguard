@@ -51,7 +51,7 @@ Pour obtenir la version officielle et sécurisée d'**AegisGuard**, ne télécha
 
 AegisGuard est actuellement distribué sous forme de logiciel compilé (exécutable/installateur). Le code source n'est pas disponible publiquement pour le moment.
 
-Pour télécharger et utiliser l'application, veuillez vous référer à la section **[Releases](../../releases/latest)**.
+Pour télécharger et utiliser l'application, veuillez vous référer à la section **[Releases](../../releases)**.
 
 ## 📜 Licence & Droits d'auteur
 
